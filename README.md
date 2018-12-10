@@ -14,4 +14,4 @@ From there, the jupyter notebook can be used to format the data and produce the 
 
 An example of one of the outputs is below:
 
-(https://github.com/paulhgraham/Tableau-New-York-Citi-Bike-Data/blob/master/Screen%20shots/Birth%20Year%20Count.jpeg)
+![Birth Year Count](https://github.com/paulhgraham/Tableau-New-York-Citi-Bike-Data/blob/master/Screen%20shots/Birth%20Year%20Count.jpeg)
