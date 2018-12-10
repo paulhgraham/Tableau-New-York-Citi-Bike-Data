@@ -11,3 +11,7 @@ Download the following files:
 - 2013-10 - Citi Bike trip data.csv
 
 From there, the jupyter notebook can be used to format the data and produce the citibike_2018.csv file used in the visual display in Tableau.
+
+An example of one of the outputs is below:
+
+(https://github.com/paulhgraham/Tableau-New-York-Citi-Bike-Data/blob/master/Screen%20shots/Birth%20Year%20Count.jpeg)
